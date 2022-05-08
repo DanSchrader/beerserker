@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      beerserker test
+      <h1>beerserker test</h1>
     </div>
   );
 }
